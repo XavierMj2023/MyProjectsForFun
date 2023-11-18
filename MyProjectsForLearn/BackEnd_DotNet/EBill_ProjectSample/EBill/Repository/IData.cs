@@ -12,5 +12,7 @@ namespace EBill.Repository
 	{
 		void SaveBillDetails(BillDetail details);
 		void SaveBillItems(List<Items> items,SqlConnection con,int id);
+		List<BillDetail> GetAllDetails();
+		BillDetail GetDetail(int id);
 	}
 }

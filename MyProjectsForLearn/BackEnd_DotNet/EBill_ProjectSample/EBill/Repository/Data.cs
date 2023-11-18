@@ -5,6 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
+using System.Web.UI.WebControls;
 using EBill.Models;
 
 namespace EBill.Repository
@@ -74,6 +75,81 @@ namespace EBill.Repository
 			{
 				throw;
 			}
+		}
+		public List<BillDetail> GetAllDetails()
+		{
+			List<BillDetail> list = new List<BillDetail>();
+			BillDetail detail;
+			//Items item;
+			SqlConnection con = new SqlConnection(ConnectionString);
+			try
+			{
+				con.Open();
+				SqlCommand cmd = new SqlCommand("spt_getAllEBillDetails", con);
+				cmd.CommandType = CommandType.StoredProcedure;
+				SqlDataReader reader = cmd.ExecuteReader();
+				while (reader.Read()) 
+				{
+					detail = new BillDetail();
+					detail.Id = int.Parse(reader["Id"].ToString());
+					detail.CustomerName = reader["CustomerName"].ToString();
+					detail.MobileNumber = reader["MobileNumber"].ToString();
+					detail.Address = reader["Address"].ToString();
+					detail.TotalAmt = int.Parse(reader["TotalAmt"].ToString());
+					list.Add(detail);
+				}
+			}
+			catch (Exception ex) 
+			{
+				throw;
+			}
+			finally
+			{
+				con.Close() ;
+			}
+			return list;
+		}
+
+		public BillDetail GetDetail(int Id)
+		{
+			SqlConnection con = new SqlConnection(ConnectionString);
+			BillDetail detail = new BillDetail();
+			Items items;
+			try
+			{
+				con.Open();
+				SqlCommand cmd = new SqlCommand("spt_getEBillDetails", con);
+				cmd.CommandType = CommandType.StoredProcedure;
+				cmd.Parameters.AddWithValue("@Id", Id);
+				SqlDataReader reader = cmd.ExecuteReader();
+				if(reader.HasRows) 
+				{
+					
+				}
+				while (reader.Read()) 
+				{
+					detail.Id = int.Parse(reader["BillId"].ToString());
+					detail.CustomerName = reader["CustomerName"].ToString();
+					detail.MobileNumber = reader["MobileNumber"].ToString();
+					detail.Address = reader["Address"].ToString();
+					detail.TotalAmt = int.Parse(reader["TotalAmt"].ToString());
+					items = new Items();
+					items.Id = int.Parse(reader["ItemId"].ToString());
+					items.ProductName = reader["ProductName"].ToString();
+					items.Price = int.Parse(reader["Price"].ToString());
+					items.Quantity = int.Parse(reader["Quantity"].ToString());
+					detail.Items.Add(items);
+				}
+			}
+			catch(Exception) 
+			{ 
+				throw;
+			}
+			finally
+			{
+				con.Close();
+			}
+			return detail;
 		}
 	}
 }
