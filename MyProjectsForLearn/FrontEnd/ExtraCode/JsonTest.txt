@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Table Test</title>
+    <link rel="stylesheet" href="../JqueryDataTables/DataTables-1.13.8/css/jquery.dataTables.min.css"/>
+    <style>
+        /* Define a fixed height for the table container */
+        #commentsTableContainer {
+            height: 400px; /* Adjust the height as needed */
+            overflow-y: scroll; /* Enable vertical scrolling */
+        }
+    </style>
+    <script type="text/javascript" src="../JqueryDataTables/jQuery-3.7.0/jquery-3.7.0.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/DataTables-1.13.8/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable({
+                ajax: {
+                    url: 'https://jsonplaceholder.typicode.com/comments',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'postId' },
+                    { data: 'id' },
+                    { data: 'name' },
+                    { data: 'email' },
+                    { data: 'body' }
+                ]
+            });
+        });
+    </script>
+</head>
+<body>
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Post ID</th>
+                <th>Comment ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Body</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows will be populated dynamically -->
+        </tbody>
+    </table>
+</body>
+</html>

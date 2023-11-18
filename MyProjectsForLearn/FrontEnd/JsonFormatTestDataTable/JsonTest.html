@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scrollable Table Example</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#commentsTable').DataTable({
+                ajax: {
+                    url: 'https://jsonplaceholder.typicode.com/comments',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'postId' },
+                    { data: 'id' },
+                    { data: 'name' },
+                    { data: 'email' },
+                    { data: 'body' }
+                ],
+                scrollY: '300px', // Set the height for vertical scrolling
+                scrollCollapse: true, // Allow the table to collapse when the space is smaller than the set height
+                paging: false // Disable pagination
+            });
+        });
+    </script>
+</head>
+<body>
+    <!-- Table container with fixed height for scroll -->
+    <div id="commentsTableContainer">
+        <table id="commentsTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Post ID</th>
+                    <th>Comment ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Body</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table content will be populated dynamically -->
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
