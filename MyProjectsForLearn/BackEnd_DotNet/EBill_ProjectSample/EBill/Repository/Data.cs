@@ -53,7 +53,6 @@ namespace EBill.Repository
 				con.Close();
 			}
 		}
-
 		public void SaveBillItems(List<Items> items, SqlConnection con, int id)
 		{
 			try
@@ -109,7 +108,6 @@ namespace EBill.Repository
 			}
 			return list;
 		}
-
 		public BillDetail GetDetail(int Id)
 		{
 			SqlConnection con = new SqlConnection(ConnectionString);

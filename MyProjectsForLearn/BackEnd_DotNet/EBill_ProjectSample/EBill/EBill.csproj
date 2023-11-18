@@ -87,6 +87,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CodesNotes\ClearingFieldsAfterItemFromPopupIsAdded.txt" />
     <Content Include="CodesNotes\DollarError.txt" />
     <Content Include="CodesNotes\ErrorLog_18Nov23.txt" />
     <Content Include="CodesNotes\ErrorLog_18Nov23_2.txt" />
