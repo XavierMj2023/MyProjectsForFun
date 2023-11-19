@@ -1,0 +1,3 @@
+scrollY: '300px',
+                scrollCollapse: true,
+                paging: false,

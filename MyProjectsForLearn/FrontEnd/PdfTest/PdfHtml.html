@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scrollable Table Example</title>
+    <!--
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.3.0/css/buttons.dataTables.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.68/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.68/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.3.0/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.3.0/js/buttons.html5.min.js"></script>
+    -->
+
+    <link rel="stylesheet" href="../JqueryDataTables/DataTables-1.13.8/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="../JqueryDataTables/Buttons-2.4.2/css/buttons.dataTables.min.css"/>
+
+    <script type="text/javascript" src="../JqueryDataTables/jQuery-3.7.0/jquery-3.7.0.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/DataTables-1.13.8/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/pdfmake-0.2.7/pdfmake.min.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/pdfmake-0.2.7/vfs_fonts.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/Buttons-2.4.2/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/Buttons-2.4.2/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/Buttons-2.4.2/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="../JqueryDataTables/JSZip-3.10.1/jszip.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#commentsTable').DataTable({
+                ajax: {
+                    url: 'https://jsonplaceholder.typicode.com/comments',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'postId' },
+                    { data: 'id' },
+                    { data: 'name' },
+                    { data: 'email' },
+                    { data: 'body' }
+                ],
+                scrollY: '300px',
+                scrollCollapse: true,
+                paging: false,
+                dom: 'Bfrtip', // Add buttons to the DOM
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+            });
+        });
+    </script>
+</head>
+<body>
+    <!-- Table container with fixed height for scroll -->
+    <div id="commentsTableContainer">
+        <table id="commentsTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Post ID</th>
+                    <th>Comment ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Body</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table content will be populated dynamically -->
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
