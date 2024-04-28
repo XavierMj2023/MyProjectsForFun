@@ -1,0 +1,23 @@
+CREATE TABLE performance_metrics (
+    PersonalDataId INT AUTO_INCREMENT PRIMARY KEY,
+    Date DATETIME NOT NULL,
+    WalkingStatus CHAR(1) NOT NULL,
+    WalkingRounds INT NOT NULL,
+    WalkingCaloriesBurnt INT NOT NULL,
+    WalkingKilometers DECIMAL(5, 2) NOT NULL,
+    WalkingWhen CHAR(1) NOT NULL,
+    WalkingInitialTime VARCHAR(10) NOT NULL,
+    JoggingStatus CHAR(1) NOT NULL,
+    JoggingRounds INT NOT NULL,
+    JoggingCaloriesBurnt INT NOT NULL,
+    JoggingKilometers DECIMAL(5, 2) NOT NULL,
+    JoggingWhen CHAR(1) NOT NULL,
+    JoggingInitialTime VARCHAR(10) NOT NULL,
+    ExerciseStatus CHAR(1) NOT NULL,
+    ExerciseSource VARCHAR(50) NOT NULL,
+    MeditationStatus CHAR(1) NOT NULL,
+    MeditationMinutes INT NOT NULL,
+    WakeUp TIME NOT NULL,
+    Sleep TIME NOT NULL,
+    M INT NOT NULL
+);
