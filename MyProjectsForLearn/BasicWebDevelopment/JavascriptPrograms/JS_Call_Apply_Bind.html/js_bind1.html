@@ -6,19 +6,35 @@
     <body>
         <h4>JS Call Apply Bind with this</h4>
         <p id="one"></p>
+        <p id="two"></p>
         <script>
-            let q1 = document.querySelector("p");
+          
+           let one = document.getElementById("one");
+           let two = document.getElementById("two");
 
-            function greet(message){
-                console.log(this);
-                return `${message},${this.name}`;
+           const person = {
+            fullName : function(location, rollNo){
+                return `${this.firstName} ${this.lastName}
+                        from ${location}, RollNo ${rollNo}`
             }
+           };
+           const person1 = {
+            firstName : "Arjun",
+            lastName : "Navnoor"
+           }
+           const person2 = {
+            firstName : "Tejun",
+            lastName : "Noor"
+           }
 
-            const person = {
-                name : 'John'
-            }
+           let p1det = person.fullName.bind(person1, "Mumbai", 32);
+           let p2det = person.fullName.bind(person2, "Mumbaj", 34);
 
-            q1.innerHTML = greet.bind(person, "Hi");
+           console.log(p1det());
+           console.log(p2det());
+
+           one.innerHTML = p1det();
+           two.innerHTML = p2det();
         </script>
     </body>
 </html>
