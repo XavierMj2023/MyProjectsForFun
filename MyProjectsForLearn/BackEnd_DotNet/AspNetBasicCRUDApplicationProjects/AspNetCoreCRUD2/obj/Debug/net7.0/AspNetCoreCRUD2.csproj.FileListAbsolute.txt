@@ -28,3 +28,4 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetBasicCRUDApplicationProjects\AspNetCoreCRUD2\obj\Debug\net7.0\AspNetCoreCRUD2.pdb
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetBasicCRUDApplicationProjects\AspNetCoreCRUD2\obj\Debug\net7.0\AspNetCoreCRUD2.genruntimeconfig.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetBasicCRUDApplicationProjects\AspNetCoreCRUD2\obj\Debug\net7.0\ref\AspNetCoreCRUD2.dll
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetBasicCRUDApplicationProjects\AspNetCoreCRUD2\obj\Debug\net7.0\AspNetCoreCRUD2.sourcelink.json

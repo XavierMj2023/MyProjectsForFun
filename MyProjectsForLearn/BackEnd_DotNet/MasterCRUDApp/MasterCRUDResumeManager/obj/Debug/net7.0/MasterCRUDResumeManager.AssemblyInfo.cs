@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterCRUDResumeManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b332f52e6cd129320170801d709a5f5ab3fd4454")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterCRUDResumeManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterCRUDResumeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

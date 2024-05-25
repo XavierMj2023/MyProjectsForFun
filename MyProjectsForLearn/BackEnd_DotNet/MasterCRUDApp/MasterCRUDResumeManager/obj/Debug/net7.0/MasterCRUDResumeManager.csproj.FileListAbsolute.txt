@@ -245,9 +245,10 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\scopedcss\bundle\MasterCRUDResumeManager.styles.css
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\scopedcss\projectbundle\MasterCRUDResumeManager.bundle.scp.css
-D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCRUDResumeManager.csproj.CopyComplete
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCRUDResumeManager.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\refint\MasterCRUDResumeManager.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCRUDResumeManager.pdb
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCRUDResumeManager.genruntimeconfig.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\ref\MasterCRUDResumeManager.dll
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCRUDResumeManager.sourcelink.json
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDResumeManager\obj\Debug\net7.0\MasterCR.45FDCF39.Up2Date

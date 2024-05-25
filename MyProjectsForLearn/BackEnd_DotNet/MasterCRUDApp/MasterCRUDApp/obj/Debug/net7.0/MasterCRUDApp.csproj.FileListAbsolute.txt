@@ -245,9 +245,10 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\scopedcss\bundle\MasterCRUDApp.styles.css
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\scopedcss\projectbundle\MasterCRUDApp.bundle.scp.css
-D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCRUDApp.csproj.CopyComplete
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCRUDApp.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\refint\MasterCRUDApp.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCRUDApp.pdb
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCRUDApp.genruntimeconfig.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\ref\MasterCRUDApp.dll
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCRUDApp.sourcelink.json
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\MasterCRUDApp\MasterCRUDApp\obj\Debug\net7.0\MasterCR.54A7DFAC.Up2Date

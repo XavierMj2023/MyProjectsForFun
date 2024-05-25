@@ -544,6 +544,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\097471f6-03f3-48ab-8572-d60fa85569ac_LambdaExpr.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MasterCRUDResumeManager</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MasterCRUDResumeManager</BasePath>
+      <RelativePath>images/097471f6-03f3-48ab-8572-d60fa85569ac_LambdaExpr.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\097471f6-03f3-48ab-8572-d60fa85569ac_LambdaExpr.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\227cb7fd-eaf5-474e-937d-788c2ee07b1e_arraylist.webp))">
       <SourceType>Package</SourceType>
       <SourceId>MasterCRUDResumeManager</SourceId>
@@ -559,6 +575,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\227cb7fd-eaf5-474e-937d-788c2ee07b1e_arraylist.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\26dac1a8-7e0d-4e63-a927-2d0a017bf764_LambdaExpr.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MasterCRUDResumeManager</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MasterCRUDResumeManager</BasePath>
+      <RelativePath>images/26dac1a8-7e0d-4e63-a927-2d0a017bf764_LambdaExpr.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\26dac1a8-7e0d-4e63-a927-2d0a017bf764_LambdaExpr.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\3d6cbdbe-d0f1-476f-abf4-9229a3e8eaf0_MachingLearningOutputScreenshot_AfterTraining.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>MasterCRUDResumeManager</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MasterCRUDResumeManager</BasePath>
+      <RelativePath>images/3d6cbdbe-d0f1-476f-abf4-9229a3e8eaf0_MachingLearningOutputScreenshot_AfterTraining.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\3d6cbdbe-d0f1-476f-abf4-9229a3e8eaf0_MachingLearningOutputScreenshot_AfterTraining.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\74a94d39-f35e-4bfc-95d7-0fad3acf5c9d_arraylist.webp))">
       <SourceType>Package</SourceType>
@@ -607,6 +655,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\c951bbbe-fed4-44fa-bc12-873fa56c22fe_arraylist.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cc83af57-6363-4bdd-924c-b0e0d431b324_arraylist.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>MasterCRUDResumeManager</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MasterCRUDResumeManager</BasePath>
+      <RelativePath>images/cc83af57-6363-4bdd-924c-b0e0d431b324_arraylist.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cc83af57-6363-4bdd-924c-b0e0d431b324_arraylist.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\d017b160-6ad1-4ef5-b7e4-3814f3df8197_arraylist.webp))">
       <SourceType>Package</SourceType>

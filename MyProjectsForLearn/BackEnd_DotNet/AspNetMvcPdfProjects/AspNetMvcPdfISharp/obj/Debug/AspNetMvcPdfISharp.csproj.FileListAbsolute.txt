@@ -57,7 +57,6 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.Migrations.initseed.resources
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.csproj.GenerateResource.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.csproj.CoreCompileInputs.cache
-D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.csproj.CopyComplete
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMvcPdfISharp.pdb
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
@@ -68,3 +67,4 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\bin\BouncyCastle.Crypto.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\bin\itextsharp.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\bin\itextsharp.xml
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\AspNetMvcPdfProjects\AspNetMvcPdfISharp\obj\Debug\AspNetMv.66438CCC.Up2Date
