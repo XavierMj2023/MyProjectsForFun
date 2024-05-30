@@ -3,3 +3,26 @@
     height: 100px;
     border: 2px solid black;
 }
+p{
+    font-size: 25px;
+    font-weight: bolder;
+    color: midnightblue;
+}
+code{
+    font-size: 20px;
+}
+.ancestors * { 
+    display: block;
+    border: 2px solid lightgrey;
+    color: lightgrey;
+    padding: 5px;
+    margin: 15px;
+  }
+
+ul{
+    display: none;
+}
+table,tr,td,th{
+    padding: 20px;
+    border-collapse:collapse ;
+}
