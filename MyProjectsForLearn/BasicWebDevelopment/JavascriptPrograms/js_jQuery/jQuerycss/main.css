@@ -1,7 +1,16 @@
-div{
+/* jquery - selector - animated */
+.divy {
     padding: 12px;
     height: 12px;
     width: 12px;
     border: 1px solid red;
     background-color: red;
+}
+
+/* jquery - method - prop */
+#division1 {
+    width: 250px;
+    padding: 10px;
+    height: 130px;
+    border: 2px solid green;
 }

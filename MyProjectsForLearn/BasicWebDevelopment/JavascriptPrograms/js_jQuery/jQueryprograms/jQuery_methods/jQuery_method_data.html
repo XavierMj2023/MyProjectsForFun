@@ -10,22 +10,22 @@
 
 <body>
     <!-- Placing HTML Code for jQuery Code demonstrartion-->
-    <button type="button" class="anime">Animate</button>
-    <div class=".divy"></div>
+    <div></div>
+    <button id="b1">Attach Data</button>
+    <button id="b2">Get Data</button>
     <!--
         This is the script link you have to put so jquery gets loaded first 
         else you get error , : $ is not defined
-    -->
+    --> 
     <script src="/jQuery/node_modules/jquery/dist/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
-            $(".anime").click(function () {
-                $(".divy").animate({ // animate
-                    width: "300px"
-                });
-                $(".divy").animate({
-                    height: "300px"
-                });
+            $("#b1").click(function(){
+                $("div").data("Mourner", "Ravi");
+            });
+            $("#b2").click(function(){
+                var moun = $("div").data("Mourner");
+                alert(moun);
             });
         });
     </script>
