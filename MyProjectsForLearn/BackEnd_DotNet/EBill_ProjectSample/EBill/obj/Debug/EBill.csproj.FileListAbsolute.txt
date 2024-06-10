@@ -49,6 +49,6 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\bin\System.Web.WebPages.Razor.xml
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.csproj.AssemblyReference.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.csproj.CoreCompileInputs.cache
-D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.csproj.CopyComplete
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.pdb
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\EBill_ProjectSample\EBill\obj\Debug\EBill.csproj.Up2Date

@@ -78,6 +78,6 @@ D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotN
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadImage.csproj.AssemblyReference.cache
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadImage.csproj.CoreCompileInputs.cache
-D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadImage.csproj.CopyComplete
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadImage.dll
 D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadImage.pdb
+D:\RECYCLE BIN EXTRAS\ONLY_DOCS\MyProjectsForFun\MyProjectsForLearn\BackEnd_DotNet\ImageProjects\UploadImage\obj\Debug\UploadIm.2E9BCB2B.Up2Date
