@@ -1,5 +1,0 @@
-'Auto-save the workbook'
-ThisWorkbook.Save
-    
-' Display a message box indicating successful data submission and save
-MsgBox "Data has been deleted and the workbook has been auto-saved."
